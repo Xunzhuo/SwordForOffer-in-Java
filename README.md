@@ -12,7 +12,7 @@
 
 ![](https://picreso.oss-cn-beijing.aliyuncs.com/leetcode-result.png)
 
-2. 算法题的讲解：让你吃透这些题！
+2. **算法题**的**讲解**：让你**吃透**这些题！
 
 ![](https://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg)
 
